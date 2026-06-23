@@ -11,7 +11,10 @@ link para o NotebookLM https://notebooklm.google.com/notebook/9ef6a9eb-0e6d-4fed
 
 Prompts usados: crie um e-book detalhado sobre o origem da cervejas e de cada um de seus estilos. Cite processos simples de fabricação sem tantos termos técnicos ou receitas especificas. Para cada estilo de cerveja, mencione ao menos dois exemplares mais famosos no mundo. Use linguagem simples para pessoas que estejam ainda nos processos iniciais de aprendizagem sobre o mundo cervejeiro, inserir nesse mesmo e-book a historia da Heineken e sua importância no Brasil.
 
-O mini e-book gerado: Este e-book foi criado para guiar você, que está começando agora, pelo fascinante universo da cerveja. Vamos viajar desde a Mesopotâmia até as cervejarias artesanais modernas, entendendo como essa bebida milenar é feita e quais são seus principais estilos.
+O mini e-book gerado: Este e-book foi criado para guiar você, que está começando agora, pelo fascinante universo da cerveja. 
+
+Vamos viajar desde a Mesopotâmia até as cervejarias artesanais modernas, entendendo como essa bebida milenar é feita e quais são seus principais estilos.
+
 Capítulo 1: O Berço da Cerveja e o "Pão Líquido"
 A história da cerveja caminha junto com a humanidade. Estima-se que ela surgiu há cerca de 10 mil anos, coincidindo com o nascimento da agricultura, quando o homem deixou de ser caçador-coletor para produzir seu próprio alimento.
 Os Sumérios, na Mesopotâmia, foram os primeiros a registrar o sabor único da mistura de água, cevada e trigo por volta de 3.500 a.C.. Naquela época, a cerveja era feita principalmente por mulheres e possuía um valor nutricional tão alto que era chamada de "pão líquido". No Egito Antigo, por volta de 3.000 a.C., ela era consumida por todas as classes sociais, inclusive pelo Faraó, que a oferecia em taças de ouro.
