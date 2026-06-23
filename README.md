@@ -56,6 +56,7 @@ Capítulo 4: Estilo Regional em Destaque
 Catharina Sour: O primeiro estilo de cerveja brasileiro reconhecido mundialmente. É uma cerveja de trigo leve e ácida, que leva frutas frescas (geralmente tropicais) em sua composição, sendo perfeita para climas quentes.
 Exemplos famosos: Blumenau Catharina Sour Pêssego e Itajahy Catharina Araçá Sour.
 Dica para o iniciante: O mundo cervejeiro é vasto. Comece pelas mais leves e vá desafiando seu paladar com as IPAs amargas e as Stouts escuras. O segredo é sempre degustar com curiosidade!.
+
 Capítulo 5: O Fenômeno Heineken – De Amsterdã para o Topo do Brasil
 Para entender o mundo da cerveja hoje, é impossível não falar da Heineken. Mais do que uma garrafa verde, ela representa uma história de inovação que transformou o mercado brasileiro.
 1. O Início em Amsterdã
