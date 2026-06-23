@@ -3,9 +3,9 @@ Introdução ao mundo cervejeiro e seus estilos. Desde a origem de cada estilo, 
 
 Com o objetivo e aprendizado sobre cerveja, explore diversos estilos e entenda sobre processos de fabricação. 
 
-Possui video detalhado sobre o conteúdo 
+Possui video detalhado sobre o conteúdo.
 
-Utilizando diversas fontes de propriedade no assunto, o notebookLM conseguiu trazer muitas informações úteis e até sugeriu perguntas pertinentes com curiosidades sobre o tema
+Utilizando diversas fontes de propriedade no assunto, o notebookLM conseguiu trazer muitas informações úteis e até sugeriu perguntas pertinentes com curiosidades sobre o tema.
 
 link para o NotebookLM https://notebooklm.google.com/notebook/9ef6a9eb-0e6d-4fed-8c28-07399db8757b
 
