@@ -19,6 +19,7 @@ Capítulo 1: O Berço da Cerveja e o "Pão Líquido"
 A história da cerveja caminha junto com a humanidade. Estima-se que ela surgiu há cerca de 10 mil anos, coincidindo com o nascimento da agricultura, quando o homem deixou de ser caçador-coletor para produzir seu próprio alimento.
 Os Sumérios, na Mesopotâmia, foram os primeiros a registrar o sabor único da mistura de água, cevada e trigo por volta de 3.500 a.C.. Naquela época, a cerveja era feita principalmente por mulheres e possuía um valor nutricional tão alto que era chamada de "pão líquido". No Egito Antigo, por volta de 3.000 a.C., ela era consumida por todas as classes sociais, inclusive pelo Faraó, que a oferecia em taças de ouro.
 Com o passar dos séculos, a produção migrou para os mosteiros na Idade Média, onde os monges aprimoraram a ciência cervejeira e introduziram o lúpulo para conservar a bebida e equilibrar o doce do malte. Já a catalogação dos estilos como conhecemos hoje é recente, iniciada em 1977 pelo escritor Michael Jackson, que ajudou os consumidores a entenderem as diferenças de aroma e sabor entre as cervejas.
+
 Capítulo 2: Como a Cerveja é Feita (Passo a Passo Simples)
 Produzir cerveja é transformar cereais em um líquido saboroso através de sete etapas principais:
 Moagem: Os grãos de malte são levemente quebrados para expor o amido interno, mas sem virar farinha para não entupir os filtros.
@@ -28,6 +29,7 @@ Resfriamento: O mosto quente precisa ser resfriado rapidamente para que o fermen
 Fermentação: A levedura entra em cena, "comendo" o açúcar e transformando-o em álcool e gás carbônico.
 Maturação: A cerveja descansa em baixas temperaturas para "arredondar" os sabores e ficar límpida.
 Envase: A bebida é colocada em garrafas ou barris, onde recebe o gás final para ficar pronta para o consumo.
+
 Capítulo 3: As Três Famílias e seus Estilos
 Toda cerveja pertence a uma de três grandes famílias, definidas pelo tipo de fermento utilizado: Lager (baixa temperatura), Ale (alta temperatura) e Lambic (fermentação espontânea).
 1. Família Lager: As Rainhas da Refrescância
@@ -52,6 +54,7 @@ Exemplos famosos: Leffe Blond e Affligem Blond.
 Considerada a "mãe" das cervejas, é produzida por fermentação espontânea com leveduras do ambiente. São cervejas únicas, ácidas e muitas vezes misturadas com frutas.
 Fruit Lambic: Versões de Lambic que recebem frutas como cereja (Kriek) ou framboesa (Framboise) durante o envelhecimento.
 Exemplos famosos: Cantillon Kriek e Lindemans Apple.
+
 Capítulo 4: Estilo Regional em Destaque
 Catharina Sour: O primeiro estilo de cerveja brasileiro reconhecido mundialmente. É uma cerveja de trigo leve e ácida, que leva frutas frescas (geralmente tropicais) em sua composição, sendo perfeita para climas quentes.
 Exemplos famosos: Blumenau Catharina Sour Pêssego e Itajahy Catharina Araçá Sour.
